@@ -1,6 +1,6 @@
 **Interoperability Service**
 
-This service transalete, encrypt and publish patient information to external system
+Enables secure data exchange between different healthcare systems using standard protocols (e.g., FHIR, HL7).This service translate, encrypt and publish patient information to external system
 
 **Prompt**
 1. As a Java developer, I am seeking to create a Java method that accepts plain text as input and converts or translates the data to facilitate secure data exchange between various healthcare systems using standard protocols such as FHIR and HL7. The system should translate and format the data to ensure compatibility and seamless sharing across different systems. Please provide the following:
